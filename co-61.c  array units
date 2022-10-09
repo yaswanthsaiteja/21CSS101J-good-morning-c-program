@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int n[10]={10,20,30,40,50,},i;
+printf("array elements are\n");
+for(i=0;i<5;i++)
+{
+printf("%4d",n[i]);
+}
+return 0;
+}
