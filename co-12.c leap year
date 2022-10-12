@@ -2,6 +2,7 @@
 int main()
 {
 int  year;
+printf("register no:RA2211042010046");
 printf("enter any year");
 scanf("%d",&year);
 if(year %4==0)
