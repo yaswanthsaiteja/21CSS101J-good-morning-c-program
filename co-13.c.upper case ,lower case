@@ -3,7 +3,7 @@ int main()
 {
 char ch;
 printf("enter any character\n");
-scanf("%c",&ch);
+printf("register no:RA2211042010046");
 if(ch>='A'&&ch>='z')
 {
 printf("%c is upper case",ch);
