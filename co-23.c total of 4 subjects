@@ -4,6 +4,7 @@ int main()
 int m=90,p=99,c=98,b=89,HTNO=987;
 float total , avg;
 char name[7]="priya";
+printf("register no:RA2211042010046");
 printf("student details are \n");
 printf("\n hall ticket number is %d\n",HTNO);
 printf("\n name is %s priya\n",name);
