@@ -2,8 +2,8 @@
 int main()
 {
 char ch;
+printf("register no:RA2211042010046"); 
 printf("enter any character\n");
-printf("register no:RA2211042010046");
 if(ch>='A'&&ch>='z')
 {
 printf("%c is upper case",ch);
