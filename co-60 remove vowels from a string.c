@@ -4,6 +4,7 @@
 int main() {
     char str[100];
     int i, j, len = 0;
+    printf("RA2211042010046\n");
     printf("Enter a string : ");
     scanf("%s", str);
     len = strlen(str);
