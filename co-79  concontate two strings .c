@@ -3,6 +3,7 @@ int main() {
   char s1[100] = "programming ", s2[] = "is awesome";
   int length, j;
   length = 0;
+  	printf("RA2211042010046");
   while (s1[length] != '\0') {
     ++length;
   }
