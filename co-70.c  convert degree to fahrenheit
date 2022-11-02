@@ -1,10 +1,7 @@
 #include<stdio.h>
 void main() {
 
-  float degree,fahrenheit;
-  
-
-//	clrscr();
+  float degree,fahren 
 
 	printf(" Program to convert Temperature Degree to Fahrenheit :  ");
 
