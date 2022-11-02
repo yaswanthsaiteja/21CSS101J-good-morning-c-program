@@ -3,6 +3,7 @@ int main()
 {
 int i,j,k,l,n;
 system("cls")
+printf("RA2211042010046\n");
 printf(enter the range=");
 sacnf(%d", &n);
 for(i=1;i<=n;i++)
