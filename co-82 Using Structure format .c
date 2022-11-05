@@ -1,11 +1,9 @@
 #include <stdio.h>
-struct student {
-    char name[50];
+   char name[50];
     int roll;
     float marks;
-} s;
-
-int main() {
+    int main() {
+    printf("RA2211042010046\n"); 
     printf("Enter information:\n");
     printf("Enter name: ");
     fgets(s.name, sizeof(s.name), stdin);
