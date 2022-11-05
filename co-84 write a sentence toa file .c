@@ -9,6 +9,7 @@ int main() {
         printf("Error!");
         exit(1);
     }
+    printf("RA2211042010046\n"); 
     printf("Enter a sentence:\n");
     fgets(sentence, sizeof(sentence), stdin);
     fprintf(fptr, "%s", sentence);
