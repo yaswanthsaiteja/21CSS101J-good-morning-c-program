@@ -2,7 +2,8 @@
   
 int main()  
 {  
-    int n,m=1;  
+    int n,m=1; 
+    printf("RA2211042010046\n");
     printf("Enter the number of rows");  
     scanf("%d",&n);  
   
