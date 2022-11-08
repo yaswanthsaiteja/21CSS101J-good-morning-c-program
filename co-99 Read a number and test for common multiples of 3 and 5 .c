@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-int n;
+int n; 
+printf("RA2211042010046\n");
 printf("enter number");
 scanf("%d", &n);
 if(n%3==0&&n%5==0)
