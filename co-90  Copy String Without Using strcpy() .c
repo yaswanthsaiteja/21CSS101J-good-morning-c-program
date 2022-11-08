@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
     char s1[100], s2[100], i;
+    printf("RA2211042010046\n");
     printf("Enter string s1: ");
     fgets(s1, sizeof(s1), stdin);
 
