@@ -1,0 +1,10 @@
+#include <stdio.h>
+void main() {
+    int a = 2;
+    float b = 2.00;
+    printf("enter %d,%f values");
+    if (a == b)
+        printf("a and b are equal");
+    if (a != b)
+        printf("a and b are not equal"); 
+}
